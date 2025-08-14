@@ -1,13 +1,17 @@
 M
+https://github.com/JabRef/jabref/pull/13520
+https://github.com/JabRef/jabref/pull/13539
+https://github.com/JabRef/jabref/pull/13596
+https://github.com/JabRef/jabref/pull/13609
+https://github.com/JabRef/jabref/pull/13620
+https://github.com/JabRef/jabref/pull/13633 <- Not sure why this one is not merged yet!
 https://github.com/apache/gravitino/pull/8026
 https://github.com/apache/gravitino/pull/8042
 https://github.com/apache/gravitino/pull/8044
 https://github.com/apache/gravitino/pull/8060
 
+https://github.com/JabRef/jabref/issues/13404 - Started working on this bug but I realized that this is not a bug but a feature. Hence I started a discussion on possible implementation.
+
 TBM
 https://github.com/apache/gravitino/pull/8069
 https://github.com/apache/gravitino/pull/8070
-
-IS
-https://github.com/apache/gravitino/issues/8057
-https://github.com/apache/gravitino/issues/8056
